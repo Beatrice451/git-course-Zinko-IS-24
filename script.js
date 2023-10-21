@@ -1,0 +1,1 @@
+alert('Beatrice was here too');
